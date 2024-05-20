@@ -1,0 +1,10 @@
+C:\Users\danma\source\repos\SchoolTimetebale\obj\Debug\SchoolTimetebale.csproj.AssemblyReference.cache
+C:\Users\danma\source\repos\SchoolTimetebale\obj\Debug\SchoolTimetebale.Properties.Resources.resources
+C:\Users\danma\source\repos\SchoolTimetebale\obj\Debug\SchoolTimetebale.csproj.GenerateResource.cache
+C:\Users\danma\source\repos\SchoolTimetebale\obj\Debug\SchoolTimetebale.csproj.CoreCompileInputs.cache
+C:\Users\danma\source\repos\SchoolTimetebale\bin\Debug\SchoolTimetebale.exe.config
+C:\Users\danma\source\repos\SchoolTimetebale\bin\Debug\SchoolTimetebale.exe
+C:\Users\danma\source\repos\SchoolTimetebale\bin\Debug\SchoolTimetebale.pdb
+C:\Users\danma\source\repos\SchoolTimetebale\obj\Debug\SchoolTimetebale.exe
+C:\Users\danma\source\repos\SchoolTimetebale\obj\Debug\SchoolTimetebale.pdb
+C:\Users\danma\source\repos\SchoolTimetebale\obj\Debug\SchoolTimetebale.ConnectDB.resources
